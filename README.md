@@ -22,11 +22,11 @@ All six files are in the `data` folder.
 
 | File | Contents |
 | --- | --- |
-| `municipalities.csv` | One row per municipal administration |
+| `municipal_administrations.csv` | One row per municipal administration |
 | `municipal_indicators.csv` | Municipal indicators by financial year |
-| `provincial.csv` | One row per provincial administration |
+| `provincial_administrations.csv` | One row per provincial administration |
 | `provincial_indicators.csv` | Provincial indicators by financial year |
-| `national.csv` | One row per national administration |
+| `national_administrations.csv` | One row per national administration |
 | `national_indicators.csv` | National indicators by financial year |
 
 Every file carries a `Geo_Code` column holding the official Municipal
