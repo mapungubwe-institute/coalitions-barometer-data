@@ -47,8 +47,19 @@ or released. It does not track every change to the working data.
 
 ## Licence
 
-This dataset will be published under an open licence. The specific licence
-is being finalised and will be stated here before launch.
+The data in this repository is licensed under a [Creative Commons
+Attribution 4.0 International Licence (CC BY 4.0)][cc-by]. The full legal
+text is in [`LICENSE`](LICENSE).
+
+You are free to share and adapt the data, including for commercial purposes,
+provided you give appropriate credit, link to the licence, and indicate
+whether you made changes.
+
+The pre-release status above is unaffected by this. The licence governs how
+you may use these files; it does not make this working copy the citable
+version.
+
+[cc-by]: https://creativecommons.org/licenses/by/4.0/
 
 ## Contact
 
