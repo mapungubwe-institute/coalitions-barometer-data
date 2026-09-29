@@ -35,8 +35,7 @@ describes.
 
 ## The Notes column
 
-Every file carries a `Notes` column. It is present but empty in this
-pre-release copy. It is written closer to launch. An empty `Notes` value
+Every file carries a `Notes` column. An empty `Notes` value
 is not missing data.
 
 ## How this repository is updated
