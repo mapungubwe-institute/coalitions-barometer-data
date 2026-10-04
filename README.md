@@ -8,8 +8,9 @@ Mapungubwe Institute for Strategic Reflection.
 ## Status: pre-release
 
 These files are a working copy, published ahead of the launch on
-7 October 2026. The structure is settled: column names and column order
-will not change before launch. The values are the real current data, but
+7 October 2026. The structure is settled. Repairs_Maintenance_Ratio has
+been removed from `municipal_indicators.csv`; column names and column
+order will not change again before launch. The values are the real current data, but
 they are not final. Rows may be added, and individual values may change,
 as coding is completed.
 
