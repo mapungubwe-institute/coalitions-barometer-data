@@ -5,7 +5,7 @@ Barometer, a structured dataset tracking coalition governance in South
 Africa since the 2021 local government elections. It is maintained by the
 Mapungubwe Institute for Strategic Reflection.
 
-## Status: pre-release
+## Status: version 1.0
 
 These files are version 1.0 of the dataset, published for the launch on
 7 October 2026. The structure and values are final for this version.
@@ -13,8 +13,8 @@ Repairs_Maintenance_Ratio was removed from municipal_indicators.csv
 before release. Corrections will appear in later versions and be listed
 in their release notes.
 
-Do not cite this pre-release copy. A citable, versioned release will be
-published at launch.
+This is version 1.0, released on 7 October 2026. The recommended citation
+is given in section 2 of the codebook.
 
 ## Files
 
