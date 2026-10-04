@@ -54,10 +54,6 @@ You are free to share and adapt the data, including for commercial purposes,
 provided you give appropriate credit, link to the licence, and indicate
 whether you made changes.
 
-The pre-release status above is unaffected by this. The licence governs how
-you may use these files; it does not make this working copy the citable
-version.
-
 [cc-by]: https://creativecommons.org/licenses/by/4.0/
 
 ## Contact
