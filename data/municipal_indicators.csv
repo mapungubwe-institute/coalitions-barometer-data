@@ -22,8 +22,8 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2025/2026,Blue Crane Route,EC102,49883,B,1,0,,,,,
 2024/2025,Blue Crane Route,EC102,49883,B,1,0,Qualified_Findings,37800000,10200000,19800000,
 2023/2024,Blue Crane Route,EC102,49883,B,1,0,Qualified_Findings,7200000,12300000,16300000,
-2022/2023,Blue Crane Route,EC102,49883,B,0,0,Unqualified_Findings,12600000,0,300000,
-2021/2022,Blue Crane Route,EC102,49883,B,0,0,Unqualified_Findings,10000000,0,50000,
+2022/2023,Blue Crane Route,EC102,49883,B,0,0,Unqualified_Findings,12600000,0,300000,No coalition or minority government was in office in Blue Crane Route during this financial year.
+2021/2022,Blue Crane Route,EC102,49883,B,0,0,Unqualified_Findings,10000000,0,50000,No coalition or minority government was in office in Blue Crane Route during this financial year.
 2025/2026,Breede Valley,WC025,212682,B,1,0,,,,,
 2024/2025,Breede Valley,WC025,212682,B,1,0,Clean,0,0,0,
 2023/2024,Breede Valley,WC025,212682,B,1,0,Clean,0,0,0,
@@ -58,7 +58,7 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2024/2025,Ditsobotla,NW384,164176,B,2,1,Disclaimed_Findings,22400000,0,19900000,
 2023/2024,Ditsobotla,NW384,164176,B,1,0,Disclaimed_Findings,0,0,43400000,
 2022/2023,Ditsobotla,NW384,164176,B,2,1,Disclaimed_Findings,,,,
-2021/2022,Ditsobotla,NW384,164176,B,0,0,Disclaimed_Findings,,,,
+2021/2022,Ditsobotla,NW384,164176,B,0,0,Disclaimed_Findings,,,,No coalition or minority government was in office in Ditsobotla during this financial year.
 2025/2026,Dr Beyers Naudé,EC101,101001,B,1,0,,,,,
 2024/2025,Dr Beyers Naudé,EC101,101001,B,1,0,Qualified_Findings,47100000,193500000,40800000,
 2023/2024,Dr Beyers Naudé,EC101,101001,B,1,0,Unqualified_Findings,61800000,98000000,55600000,
@@ -75,10 +75,10 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2022/2023,eMadlangeni,KZN253,36948,B,2,0,Unqualified_Findings,45100000,28600000,370000,
 2021/2022,eMadlangeni,KZN253,36948,B,1,0,Qualified_Findings,13800000,12800000,950000,
 2025/2026,eMalahleni,MP312,434522,B,1,0,,,,,
-2024/2025,eMalahleni,MP312,434522,B,0,0,Unqualified_Findings,,,,
-2023/2024,eMalahleni,MP312,434522,B,0,0,Unqualified_Findings,1647400000,1036600000,384000000,
-2022/2023,eMalahleni,MP312,434522,B,0,0,Qualified_Findings,154200000,921200000,534100000,
-2021/2022,eMalahleni,MP312,434522,B,0,0,Qualified_Findings,187800000,909900000,273800000,
+2024/2025,eMalahleni,MP312,434522,B,0,0,Unqualified_Findings,,,,No coalition or minority government was in office in eMalahleni during this financial year.
+2023/2024,eMalahleni,MP312,434522,B,0,0,Unqualified_Findings,1647400000,1036600000,384000000,No coalition or minority government was in office in eMalahleni during this financial year.
+2022/2023,eMalahleni,MP312,434522,B,0,0,Qualified_Findings,154200000,921200000,534100000,No coalition or minority government was in office in eMalahleni during this financial year.
+2021/2022,eMalahleni,MP312,434522,B,0,0,Qualified_Findings,187800000,909900000,273800000,No coalition or minority government was in office in eMalahleni during this financial year.
 2025/2026,Emfuleni,GT421,945650,B,1,0,,,,,
 2024/2025,Emfuleni,GT421,945650,B,1,0,Qualified_Findings,20400000,3043000000,455500000,
 2023/2024,Emfuleni,GT421,945650,B,1,0,Qualified_Findings,49300000,1650400000,208500000,
@@ -200,10 +200,10 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2022/2023,Maluti-a-Phofung,FS194,398459,B,1,0,Disclaimed_Findings,,,,
 2021/2022,Maluti-a-Phofung,FS194,398459,B,1,0,Disclaimed_Findings,,,,
 2025/2026,Mandeni,KZN291,180939,B,1,0,,,,,
-2024/2025,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,5800000,31300000,0,
-2023/2024,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,6300000,8700000,140000,
-2022/2023,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,14300000,6200000,320000,
-2021/2022,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,14900000,0,620000,
+2024/2025,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,5800000,31300000,0,No coalition or minority government was in office in Mandeni during this financial year.
+2023/2024,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,6300000,8700000,140000,No coalition or minority government was in office in Mandeni during this financial year.
+2022/2023,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,14300000,6200000,320000,No coalition or minority government was in office in Mandeni during this financial year.
+2021/2022,Mandeni,KZN291,180939,B,0,0,Unqualified_Findings,14900000,0,620000,No coalition or minority government was in office in Mandeni during this financial year.
 2025/2026,Maphumulo,KZN294,110983,B,1,0,,,,,
 2024/2025,Maphumulo,KZN294,110983,B,2,0,Unqualified_Findings,12500000,15600000,2100000,
 2023/2024,Maphumulo,KZN294,110983,B,1,0,Unqualified_Findings,9000000,9000000,2600000,
@@ -211,17 +211,17 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2021/2022,Maphumulo,KZN294,110983,B,1,0,Unqualified_Findings,590000,0,4000,
 2025/2026,Maquassi Hills,NW404,90302,B,1,0,,,,,
 2024/2025,Maquassi Hills,NW404,90302,B,1,0,Adverse_Findings,,,,
-2023/2024,Maquassi Hills,NW404,90302,B,0,0,Adverse_Findings,34200000,206700000,8600000,
-2022/2023,Maquassi Hills,NW404,90302,B,0,0,Disclaimed_Findings,24900000,24000000,7800000,
-2021/2022,Maquassi Hills,NW404,90302,B,0,0,Disclaimed_Findings,170000000,57300000,5400000,
+2023/2024,Maquassi Hills,NW404,90302,B,0,0,Adverse_Findings,34200000,206700000,8600000,No coalition or minority government was in office in Maquassi Hills during this financial year.
+2022/2023,Maquassi Hills,NW404,90302,B,0,0,Disclaimed_Findings,24900000,24000000,7800000,No coalition or minority government was in office in Maquassi Hills during this financial year.
+2021/2022,Maquassi Hills,NW404,90302,B,0,0,Disclaimed_Findings,170000000,57300000,5400000,No coalition or minority government was in office in Maquassi Hills during this financial year.
 2025/2026,Matzikama,WC011,69043,B,2,1,,,,,
 2024/2025,Matzikama,WC011,69043,B,2,1,Clean,129000000,340000,0,
 2023/2024,Matzikama,WC011,69043,B,1,0,Clean,59800000,0,6300000,
 2022/2023,Matzikama,WC011,69043,B,1,0,Unqualified_Findings,85200000,0,14700000,
 2021/2022,Matzikama,WC011,69043,B,2,0,Unqualified_Findings,61600000,14500000,7200000,
 2025/2026,Merafong City,GT484,225476,B,,,,,,,No coalition or minority government was in office in Merafong City during the part of this financial year the dataset covers.
-2024/2025,Merafong City,GT484,225476,B,0,0,Qualified_Findings,138900000,1065000000,207300000,
-2023/2024,Merafong City,GT484,225476,B,0,0,Qualified_Findings,209200000,1030100000,157800000,
+2024/2025,Merafong City,GT484,225476,B,0,0,Qualified_Findings,138900000,1065000000,207300000,No coalition or minority government was in office in Merafong City during this financial year.
+2023/2024,Merafong City,GT484,225476,B,0,0,Qualified_Findings,209200000,1030100000,157800000,No coalition or minority government was in office in Merafong City during this financial year.
 2022/2023,Merafong City,GT484,225476,B,1,0,Disclaimed_Findings,280400000,0,138400000,
 2021/2022,Merafong City,GT484,225476,B,1,0,Disclaimed_Findings,49100000,0,74200000,
 2025/2026,Metsimaholo,FS204,158391,B,1,0,,,,,
@@ -250,8 +250,8 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2022/2023,Msunduzi,KZN225,817725,B,1,0,Qualified_Findings,59900000,0,153200000,
 2021/2022,Msunduzi,KZN225,817725,B,1,0,Qualified_Findings,180100000,510100000,680000,
 2025/2026,Mthonjaneni,KZN285,99289,B,,,,,,,No coalition or minority government was in office in Mthonjaneni during the part of this financial year the dataset covers.
-2024/2025,Mthonjaneni,KZN285,99289,B,0,0,Unqualified_Findings,130500000,59600000,2200000,
-2023/2024,Mthonjaneni,KZN285,99289,B,0,0,Unqualified_Findings,86700000,47400000,2500000,
+2024/2025,Mthonjaneni,KZN285,99289,B,0,0,Unqualified_Findings,130500000,59600000,2200000,No coalition or minority government was in office in Mthonjaneni during this financial year.
+2023/2024,Mthonjaneni,KZN285,99289,B,0,0,Unqualified_Findings,86700000,47400000,2500000,No coalition or minority government was in office in Mthonjaneni during this financial year.
 2022/2023,Mthonjaneni,KZN285,99289,B,1,0,Unqualified_Findings,64100000,38000000,1700000,
 2021/2022,Mthonjaneni,KZN285,99289,B,1,0,Unqualified_Findings,48900000,20500000,240000,
 2025/2026,Mtubatuba,KZN275,215869,B,1,0,,,,,
@@ -300,8 +300,8 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2022/2023,Phokwane,NC094,80482,B,1,0,Qualified_Findings,,,,
 2021/2022,Phokwane,NC094,80482,B,1,0,Qualified_Findings,,,,
 2025/2026,Prince Albert,WC052,17836,B,,,,,,,No coalition or minority government was in office in Prince Albert during the part of this financial year the dataset covers.
-2024/2025,Prince Albert,WC052,17836,B,0,0,Qualified_Findings,840000,670000,590000,
-2023/2024,Prince Albert,WC052,17836,B,0,0,Unqualified_Findings,5100000,19100000,5000,
+2024/2025,Prince Albert,WC052,17836,B,0,0,Qualified_Findings,840000,670000,590000,No coalition or minority government was in office in Prince Albert during this financial year.
+2023/2024,Prince Albert,WC052,17836,B,0,0,Unqualified_Findings,5100000,19100000,5000,No coalition or minority government was in office in Prince Albert during this financial year.
 2022/2023,Prince Albert,WC052,17836,B,1,1,Unqualified_Findings,1700000,7700000,0,
 2021/2022,Prince Albert,WC052,17836,B,1,0,Clean,80000,4700000,10000,
 2025/2026,Rand West City,GT485,334773,B,1,0,,,,,
@@ -332,8 +332,8 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2025/2026,Sol Plaatje,NC091,270078,B,1,0,,,,,
 2024/2025,Sol Plaatje,NC091,270078,B,1,0,Qualified_Findings,171800000,0,29000000,
 2023/2024,Sol Plaatje,NC091,270078,B,1,0,Qualified_Findings,64600000,29300000,40700000,
-2022/2023,Sol Plaatje,NC091,270078,B,0,0,Qualified_Findings,142700000,0,100600000,
-2021/2022,Sol Plaatje,NC091,270078,B,0,0,Qualified_Findings,198200000,0,50400000,
+2022/2023,Sol Plaatje,NC091,270078,B,0,0,Qualified_Findings,142700000,0,100600000,No coalition or minority government was in office in Sol Plaatje during this financial year.
+2021/2022,Sol Plaatje,NC091,270078,B,0,0,Qualified_Findings,198200000,0,50400000,No coalition or minority government was in office in Sol Plaatje during this financial year.
 2025/2026,Steve Tshwete,MP313,242031,B,1,0,,,,,
 2024/2025,Steve Tshwete,MP313,242031,B,2,0,Qualified_Findings,7900000,108300000,330000,
 2023/2024,Steve Tshwete,MP313,242031,B,1,0,Qualified_Findings,51000000,95400000,7000000,
@@ -343,7 +343,7 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2024/2025,Swellendam,WC034,47114,B,1,0,Clean,133400000,39300000,3000,
 2023/2024,Swellendam,WC034,47114,B,1,0,Clean,63500000,980000,0,
 2022/2023,Swellendam,WC034,47114,B,1,0,Unqualified_Findings,35100000,1000000,250000,
-2021/2022,Swellendam,WC034,47114,B,0,0,Clean,54600000,2500000,0,
+2021/2022,Swellendam,WC034,47114,B,0,0,Clean,54600000,2500000,0,No coalition or minority government was in office in Swellendam during this financial year.
 2025/2026,Thabazimbi,LIM361,65047,B,1,0,,,,,
 2024/2025,Thabazimbi,LIM361,65047,B,2,1,Qualified_Findings,174900000,90200000,19400000,
 2023/2024,Thabazimbi,LIM361,65047,B,1,0,Disclaimed_Findings,22700000,60000000,6100000,
@@ -387,13 +387,13 @@ Financial_Year,Municipality,Geo_Code,Population,Muni_Category,Coalition_Count,Co
 2025/2026,uMzumbe,KZN213,139045,B,1,0,,,,,
 2024/2025,uMzumbe,KZN213,139045,B,2,0,Unqualified_Findings,171700000,68500000,90000,
 2023/2024,uMzumbe,KZN213,139045,B,1,0,Adverse_Findings,600000,0,20000,
-2022/2023,uMzumbe,KZN213,139045,B,0,0,Qualified_Findings,16500000,2400000,20000,
-2021/2022,uMzumbe,KZN213,139045,B,0,0,Unqualified_Findings,41700000,0,1000,
+2022/2023,uMzumbe,KZN213,139045,B,0,0,Qualified_Findings,16500000,2400000,20000,No coalition or minority government was in office in uMzumbe during this financial year.
+2021/2022,uMzumbe,KZN213,139045,B,0,0,Unqualified_Findings,41700000,0,1000,No coalition or minority government was in office in uMzumbe during this financial year.
 2025/2026,uPhongolo,KZN262,151541,B,1,0,,,,,
 2024/2025,uPhongolo,KZN262,151541,B,1,0,Unqualified_Findings,70000,50100000,2000000,
-2023/2024,uPhongolo,KZN262,151541,B,0,0,Unqualified_Findings,220000,137800000,10000,
-2022/2023,uPhongolo,KZN262,151541,B,0,0,Unqualified_Findings,730000,32500000,7900000,
-2021/2022,uPhongolo,KZN262,151541,B,0,0,Unqualified_Findings,24600000,48700000,30000,
+2023/2024,uPhongolo,KZN262,151541,B,0,0,Unqualified_Findings,220000,137800000,10000,No coalition or minority government was in office in uPhongolo during this financial year.
+2022/2023,uPhongolo,KZN262,151541,B,0,0,Unqualified_Findings,730000,32500000,7900000,No coalition or minority government was in office in uPhongolo during this financial year.
+2021/2022,uPhongolo,KZN262,151541,B,0,0,Unqualified_Findings,24600000,48700000,30000,No coalition or minority government was in office in uPhongolo during this financial year.
 2025/2026,Witzenberg,WC022,103765,B,1,0,,,,,
 2024/2025,Witzenberg,WC022,103765,B,1,0,Clean,0,0,0,
 2023/2024,Witzenberg,WC022,103765,B,2,1,Clean,5900000,0,0,
