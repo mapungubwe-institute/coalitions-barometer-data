@@ -16,6 +16,11 @@ in their release notes.
 This is version 1.0, released on 7 October 2026. The recommended citation
 is given in section 2 of the codebook.
 
+The data runs to 28 February 2026.
+
+Known issues in this version are listed in the release notes:
+https://coalitions.mistra.org.za/release-notes.html
+
 ## Files
 
 All six files are in the `data` folder.
@@ -32,6 +37,9 @@ All six files are in the `data` folder.
 Every file carries a `Geo_Code` column holding the official Municipal
 Demarcation Board code for the municipality, province or country the row
 describes.
+
+The codebook, available at https://coalitions.mistra.org.za/downloads.html,
+defines every column, the values it may take and how it was coded.
 
 ## The Notes column
 
@@ -59,3 +67,6 @@ whether you made changes.
 ## Contact
 
 Laurence Caromba, Mapungubwe Institute for Strategic Reflection.
+
+Please send corrections to coalitions@mistra.org.za, with the cell or row
+concerned and a source that supports the correction.
